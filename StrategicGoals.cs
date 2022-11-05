@@ -191,7 +191,7 @@ namespace Normandale.DataAccess.Tables
             //var result = StrategicGoalsBusinessRules.ValidateRowDoesNotExist(this);
             //if (result.IsSuccessful)
             {
-                NormandaleQuery.Query = deleteClause + whereClause;
+                NormandaleQuery.Query = deleteClause + WhereClause();
                 AddParameters();
                 NormandaleQuery.RunNonQuery();
             }

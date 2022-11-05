@@ -1,0 +1,15 @@
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\StrategicGoals.dll.config
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\StrategicGoals.dll
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\StrategicGoals.pdb
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\SQLConnectionControl.dll
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\NLog.dll
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\IniFile.dll
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\SQLConnectionControl.pdb
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\SQLConnectionControl.dll.config
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\NLog.xml
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\bin\Release\IniFile.pdb
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Release\StrategicGoals.csproj.AssemblyReference.cache
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Release\StrategicGoals.csproj.CoreCompileInputs.cache
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Release\StrategicGoals.csproj.CopyComplete
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Release\StrategicGoals.dll
+C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Release\StrategicGoals.pdb
