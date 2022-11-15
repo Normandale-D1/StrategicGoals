@@ -223,11 +223,11 @@ namespace Normandale.DataAccess.Tables
             }
             if (_EffectiveDT.HasValue)
             {
-                WhereClause += " AND [EffectiveDT] = @EffectiveDT";
+                WhereClause += " AND [EffectiveDT] <= @EffectiveDT";
             }
             if (_EndDT.HasValue)
             {
-                WhereClause += " AND [EndDT] = @EndDT";
+                WhereClause += " AND ([EndDT] >= @EndDT OR EndDT IS NULL)";
             }
             if (_LastChgdDT.HasValue)
             {

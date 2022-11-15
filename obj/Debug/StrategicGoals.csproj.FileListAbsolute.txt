@@ -12,4 +12,3 @@ C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Debug\Strate
 C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Debug\StrategicGoals.csproj.CopyComplete
 C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Debug\StrategicGoals.dll
 C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Debug\StrategicGoals.pdb
-C:\Users\ms7223wn\source\repos\DatabaseWorkPlans\StrategicGoals\obj\Debug\StrategicGoals.csproj.AssemblyReference.cache
